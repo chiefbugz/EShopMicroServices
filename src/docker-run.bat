@@ -1,0 +1,1 @@
+docker.exe compose -f docker-compose.yml -f docker-compose.override.yml dockercompose15154521086621848544 --ansi never up -d --build --remove-orphans
